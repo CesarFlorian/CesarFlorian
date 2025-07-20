@@ -30,8 +30,7 @@ I'm a developer with intermediate knowledge in **C#** and experience working wit
 
 ### 📫 How to Reach Me
 
-- 📧 cesarflorian@example.com *(replace with your actual email)*
-- 🌐 [LinkedIn](https://www.linkedin.com/in/your-profile/) *(optional)*
+- 📧 cesarfloriandelacruz@gmai.com
 
 ---
 
