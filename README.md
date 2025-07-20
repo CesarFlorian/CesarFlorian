@@ -1,39 +1,40 @@
-## 👋 ¡Hola! Soy Cesar Florian
+## 👋 Hi there! I'm Cesar Florian
 
-### 💻 Desarrollador de Software | Apasionado por la programación limpia y bien estructurada
-
----
-
-### 🚀 Sobre mí
-
-Soy un desarrollador con conocimientos intermedios en **C#** y experiencia trabajando con tecnologías y conceptos clave del ecosistema .NET. Me interesa crear aplicaciones robustas, escalables y mantenibles aplicando buenas prácticas de desarrollo.
+### 💻 Software Developer | Passionate about clean and well-structured code
 
 ---
 
-### 🛠️ Tecnologías y herramientas
+### 🚀 About Me
 
-- 💡 **Lenguajes:** C# (intermedio), JavaScript (en aprendizaje)
-- 🧠 **Frameworks y Librerías:** ASP.NET, Entity Framework Core, LINQ
-- 🏗️ **Arquitecturas:** Onion Architecture, Arquitectura en N Capas
-- 📐 **Principios:** Programación Orientada a Objetos, Principios SOLID
-- 🛠️ **Herramientas:** Visual Studio, .NET SDK, Git
+I'm a developer with intermediate knowledge in **C#** and experience working with key technologies and concepts from the .NET ecosystem. I'm focused on building robust, scalable, and maintainable applications by applying solid development practices.
 
 ---
 
-### 📚 Actualmente aprendiendo
+### 🛠️ Technologies & Tools
+
+- 💡 **Languages:** C# (intermediate), JavaScript (currently learning)
+- 🧠 **Frameworks & Libraries:** ASP.NET, Entity Framework Core, LINQ
+- 🏗️ **Architectures:** Onion Architecture, N-Tier Architecture
+- 📐 **Principles:** Object-Oriented Programming, SOLID Principles
+- 🛢️ **Databases:** SQL Server
+- 🛠️ **Tools:** Visual Studio, .NET SDK, Git
+
+---
+
+### 📚 Currently Learning
 
 - JavaScript
-- Desarrollo web full stack
+- Full Stack Web Development
 
 ---
 
-### 📫 Cómo contactarme
+### 📫 How to Reach Me
 
-- 📧 cesarflorian@example.com *(reemplaza esto con tu email real si quieres)*
-- 🌐 [LinkedIn](https://www.linkedin.com/in/tu-perfil/) *(opcional)*
+- 📧 cesarflorian@example.com *(replace with your actual email)*
+- 🌐 [LinkedIn](https://www.linkedin.com/in/your-profile/) *(optional)*
 
 ---
 
-### ⚡ Dato curioso
+### ⚡ Fun Fact
 
-¡Creo firmemente que un código limpio no solo funciona mejor, sino que también se disfruta más escribirlo!
+I strongly believe that clean code not only works better but is also more enjoyable to write
