@@ -12,6 +12,9 @@ I'm a developer with intermediate knowledge in **C#** and experience working wit
 
 ### 🛠️ Technologies & Tools
 
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+          
 - 💡 **Languages:** C# (intermediate), JavaScript (currently learning)
 - 🧠 **Frameworks & Libraries:** ASP.NET, Entity Framework Core, LINQ
 - 🏗️ **Architectures:** Onion Architecture, N-Tier Architecture
