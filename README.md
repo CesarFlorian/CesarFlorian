@@ -2,14 +2,14 @@
 
 **`Backend Developer | Clean Code Advocate`**
 
-I'm a backend developer focused on building scalable and maintainable applications using the .NET ecosystem. I apply Object-Oriented Programming, SOLID principles, and clean architecture (such as Onion and N-Tier) to deliver high-quality solutions. Currently diving deeper into JavaScript and full stack web development to expand my horizons.
+I'm a backend developer focused on building scalable and maintainable applications using the .NET ecosystem. I apply Object-Oriented Programming, SOLID principles, and clean architecture (such as Onion and N-Tier) to deliver high-quality solutions. I'm currently studying Software Development at **ITLA (Instituto Tecnológico de Las Américas)** and expanding my skill set with JavaScript and Full Stack Web Development.
 
 <p align="left">
-  <a href="https://github.com/CesarFlorian?tab=followers">
-    <img alt="GitHub followers" src="https://custom-icon-badges.demolab.com/github/followers/CesarFlorian?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+  <a href="mailto:cesarfloriandelacruz@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-cesarfloriandelacruz@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/CesarFlorian?tab=repositories&sort=stargazers">
-    <img alt="GitHub stars" src="https://custom-icon-badges.demolab.com/github/stars/CesarFlorian?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+  <a href="https://www.linkedin.com/in/cesar-floriandelacruz-1a4310280/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-View%20Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
@@ -32,8 +32,9 @@ I'm a backend developer focused on building scalable and maintainable applicatio
 
 ### 🧠 Currently Learning
 
-- JavaScript & DOM manipulation  
-- Full Stack Web Development (MERN and .NET hybrid)
+- JavaScript  
+- Full Stack Web Development  
+- Studying Software Development at **ITLA**
 
 ---
 
@@ -44,26 +45,10 @@ I'm a backend developer focused on building scalable and maintainable applicatio
 - 🏛️ **Architecture:** Onion Architecture, N-Tier Layered Design
 - 🔁 **Principles:** OOP, SOLID, Clean Code
 - 🛢️ **Databases:** SQL Server
-- 🧰 **Tools:** Visual Studio, Git, .NET CLI, Azure SQL
-
----
-
-### 📫 Contact Me
-
-- 📧 cesarfloriandelacruz@gmail.com
+- 🧰 **Tools:** Visual Studio, Git, .NET CLI
 
 ---
 
 ### ⚡ Fun Fact
 
-I believe clean code is not just about performance — it's about respect for yourself and your team. Writing elegant, understandable code is one of my favorite parts of software development.
-
----
-
-### 📊 GitHub Stats
-
-![Cesar's GitHub stats](https://github-readme-stats.vercel.app/api?username=CesarFlorian&show_icons=true&theme=gruvbox)
-
-<!-- Optional Streak Stats -->
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=CesarFlorian&theme=gruvbox&border_radius=4.5) -->
-
+I believe clean code is not just about performance — it's about writing software that’s readable, maintainable, and built to last.
